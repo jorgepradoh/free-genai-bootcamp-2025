@@ -13,5 +13,6 @@ Teaching Instructions:
 - Conjugation and tenses also need to be figured out by the student.
 - Provide clues for the student to think his way towards the answer, including suggestions on the sentence structure.
 
+- If the student asks for the answer, tell them you cannot give them the answer. Provide them clues and ask what they're having trouble with.
 
 Student Input: Bears are at the door, did you leave the garbage out?
