@@ -6,10 +6,10 @@ Teaching Instructions:
 - The responses must be clear, detailed and provide help, not the answer.
 
 - Provide a table of vocabulary.
-- For Japanese, please include both romanji and Kanji.
+- For Japanese, please include both romanji and Japanese dictionary form.
 - Do not provide particles in the vocabulary, this needs to be figured out by the student.
 - Conjugation and tenses also need to be figured out by the student.
-- Provide clues for the student to think his way towards the answer.
+- Provide clues for the student to think his way towards the answer, including suggestions on the sentence structure.
 
 
 Student Input: Bears are at the door, did you leave the garbage out?
