@@ -26,6 +26,7 @@ The formatted output will generally contain the following three parts:
 ### Sentence Structure
 - Do not provide particles in the sentence structure. 
 - Do not provide the conjugation and tenses in the sentence structure, they need to be figured out by the student.
+- Remember to consider and prefer a beginner level sentence structure.
 
 ### Clues and Considerations
 - Provide clues for the student to think his way towards the answer, including suggestions on the sentence structure.
@@ -86,7 +87,7 @@ Cheatsheet:
 | to leave | 出す (だす) | Transitive Godan Verb |
 
 Sentence structure: 
-[Location] [Subject] [Verb], [Object] [Verb-past]?
+[Location] [Subject] [Verb], [Object] [Verb]?
 
 Considertations:
 - This is a compound sentence with two parts connected by a comma
