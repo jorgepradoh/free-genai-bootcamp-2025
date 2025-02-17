@@ -22,6 +22,7 @@ The formatted output will generally contain the following three parts:
 - For the table of vocabulary, use the following structure: Japanese, Romaji, English. 
 - Make sure that vocabulary doesn't repeat itself in the table.
 - Conjugation and tenses also need to be figured out by the student.
+- If a word in the vocabulary has to be used more than once, include them in the same row.
 
 ### Sentence Structure
 - Do not provide particles in the sentence structure. 
