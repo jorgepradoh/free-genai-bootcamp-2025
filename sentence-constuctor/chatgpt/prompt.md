@@ -25,11 +25,10 @@ The formatted output will generally contain the following three parts:
 
 ### Sentence Structure
 - Do not provide particles in the sentence structure. 
-- 
+- Do not provide the conjugation and tenses in the sentence structure, they need to be figured out by the student.
 
 ### Clues and Considerations
 - Provide clues for the student to think his way towards the answer, including suggestions on the sentence structure.
-
 
 <example>
 <user:input> 
@@ -38,6 +37,7 @@ The formatted output will generally contain the following three parts:
 <score>4</score>
 <score_reasons>
     - BAD: in the vocabulary table it did not show japanese characters, just blank 
+    - BAD: in the vocabulary table, it repeats words that are already on the table.
     - BAD: the beginner sentence is unnecesary, should just tart with vocabulary table
     - BAD: In the clues we should not provide the polite form of verbs, because the student needs to figure that out.
     - BAD: The sentence structure says too much, we really want something conceptual like this: [Location] [Subject] [Verb], [Object], [Verb-past]?
@@ -49,7 +49,7 @@ The formatted output will generally contain the following three parts:
     |          | tobira | door |
     |          | gomi   | garbage |
     |          | noko   | leave behind |
-
+    |          | kuma   | bear |
     Now, let's think about the sentence structure. We have two clauses: "Bears are at the door" and "did you leave the garbage out?".
     For the first clause, we can use the verb (aru) which means "to exist" or "to be present". We'll need to figure out the correct form of the verb to use. 
     For the second clause, we can use the verb (nokosu) which is a more polite way of saying "to leave behind". Again, we'll need to figure out the correct form of the verb to use.
@@ -73,6 +73,7 @@ The formatted output will generally contain the following three parts:
     - GOOD: Doesn't provide verbose text at the start, and shows vocabulary immediatly
     - GOOD: Shows conceptual sentence structure
     - GOOD: Clues don't give away any of the tenses of conjugations
+    - GOOD: No words repeat in the vocabulary table.
 </score_reasons>
 <assistant:output>
 Cheatsheet:
