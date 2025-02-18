@@ -162,4 +162,3 @@ Possible next steps:
 </example>
 
 ## Student Input
-Did you see the raven this morning? They were looking at our garden.
